@@ -55,6 +55,12 @@ A系统处理完成业务后，通过MQ给B C D系统发消息，如果B C处理
 
 ![mq对比](https://github.com/liuguanglei123/MQStudy/blob/main/images/mq1.png "mq对比")
 
+# RabbitMQ简介
+AMQP Advanced Message Queuing Protocol(高级消息队列协议)，是一个网络协议，是应用层协议的一个开放标准。
+为面向对象的中间件设计。基于此协议的客户端与消息中间件可传递消息，并不受客户端/中间件不同产品，不同的开发语言等条件的限制。类比HTTP
+
+![AMQP](https://github.com/liuguanglei123/MQStudy/blob/main/images/mq2.png "AMQP")
+
 
 
 
