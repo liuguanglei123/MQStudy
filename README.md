@@ -53,6 +53,7 @@ A系统处理完成业务后，通过MQ给B C D系统发消息，如果B C处理
 
 ## 常见的MQ对比
 
+![mq对比](https://github.com/liuguanglei123/MQStudy/blob/main/images/mq1.png "mq对比")
 
 
 
